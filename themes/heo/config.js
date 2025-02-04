@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享币圈信息',
+  HEO_HERO_TITLE_2: '一起快乐撸毛！',
+  HEO_HERO_TITLE_3: 'web3a8.com',
+  HEO_HERO_TITLE_4: '撸毛新人？',
+  HEO_HERO_TITLE_5: '万字长文带你轻松入门！',
+  HEO_HERO_TITLE_LINK: 'https://www.web3a8.com/%E6%92%B8%E6%AF%9B%E5%85%A5%E9%97%A8%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
