@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '一起快乐撸毛！',
   HEO_HERO_TITLE_3: 'web3a8.com',
   HEO_HERO_TITLE_4: '撸毛新人？',
-  HEO_HERO_TITLE_5: '万字长文带你轻松入门！',
+  HEO_HERO_TITLE_5: '万字长文带你轻松入门撸毛！',
   HEO_HERO_TITLE_LINK: 'https://www.web3a8.com/%E6%92%B8%E6%AF%9B%E5%85%A5%E9%97%A8%E6%9C%80%E5%85%A8%E6%95%99%E7%A8%8B',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -60,18 +60,18 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file5426.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      img_2: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file3408.png',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      img_1: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file1975.png',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      img_2: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file1958.png',
       color_2: '#4082c3'
     },
     {
