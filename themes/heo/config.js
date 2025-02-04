@@ -39,79 +39,75 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🔍 努力发现币圈alpha',
+    '🏃 相信勤奋撸毛能致富',
+    '🤖️ 定投大饼，不玩土狗'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/web3a8',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://web3a8.com',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file5426.png',
+      img_1: '/images/heo/1.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file3408.png',
+      img_2: '/images/heo/52.png',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file1975.png',
+      img_1: '/images/heo/825.png',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: 'https://raw.githubusercontent.com/web3a8/web3A8File/master/file1958.png',
+      img_2: '/images/heo/1027.png',
       color_2: '#4082c3'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      img_1: '/images/heo/1839.png',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      img_2: '/images/heo/1958.png',
       color_2: '#ffffff'
     },
     {
       title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      img_1: '/images/heo/1975.png',
       color_1: '#eb6840',
       title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      img_2: '/images/heo/3408.png',
       color_2: '#8f55ba'
     },
     {
       title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+      img_1: '/images/heo/5426.png',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      img_2: '/images/heo/20947.png',
       color_2: '#2c51db'
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      img_1: '/images/heo/27075.png',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      img_2: '/images/heo/32196.png',
       color_2: '#e9572b'
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      img_1: '/images/heo/2.png',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      img_2: '/images/heo/7083.png',
       color_2: '#1f1f1f'
     }
   ],
@@ -120,7 +116,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/+Hk6aLFQKTpM0M2M9',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
