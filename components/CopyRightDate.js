@@ -17,7 +17,7 @@ export default function CopyRightDate() {
       <i className='fas fa-copyright' />
       <span>{copyrightDate}</span>
       <a
-        href={siteConfig('LINK')}
+        href="https://web3a8.com"
         className='underline font-semibold dark:text-gray-300 '>
         {siteConfig('AUTHOR')}
       </a>
